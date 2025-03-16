@@ -1,0 +1,74 @@
+.list li a {
+    color: #4D4D4D;
+}
+
+.nexcent-button {
+    border-radius: 10px;
+    color: white;
+    background-color: #4CAF4F;
+    transition: all 1s ease;
+    border: none;
+}
+
+.nexcent-button:hover {
+    background-color: #318834;
+}
+
+
+
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 3.95rem;
+    color: #4D4D4D;
+}
+
+h2,
+h3,
+h4 {
+    color: #4D4D4D;
+}
+
+p {
+    color: #929293;
+}
+
+span {
+    color: #4CAF4F;
+}
+
+.icon {
+    background-color: #4CAF4F;
+    color: white;
+    font-size: 3rem;
+}
+
+.read {
+    text-decoration: none;
+    color: #4CAF4F;
+}
+
+.text-color {
+    color: #4CAF4F;
+}
+
+.color-background {
+    background-color: #F2F4Fb;
+}
+
+
+/* caring section   */
+.caring {
+    padding-inline: 100px;
+}
+
+
+/* last section */
+.last p{
+
+/* background-color: red; */
+/* margin-left: 36px; */
+}
